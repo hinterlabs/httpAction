@@ -42,10 +42,6 @@
     "semantic-release": "semantic-release --branch main",
     "commit": "cz"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/axios/axios.git"
-  },
   "keywords": [
     "xhr",
     "http",
@@ -53,12 +49,7 @@
     "promise",
     "node"
   ],
-  "author": "Matt Zabriskie",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/axios/axios/issues"
-  },
-  "homepage": "https://axios-http.com",
   "devDependencies": {
     "@babel/preset-env": "^7.18.2",
     "@rollup/plugin-babel": "^5.3.1",
