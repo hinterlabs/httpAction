@@ -12,7 +12,7 @@
 [![Known Vulnerabilities](https://snyk.io/test/npm/axios/badge.svg)](https://snyk.io/test/npm/axios)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/axios)
 
-Promise based HTTP client for the browser and node.js
+Promise based HTTP client for the browser and node.js.
 
 > New axios docs website: [click here](https://axios-http.com/)
 
