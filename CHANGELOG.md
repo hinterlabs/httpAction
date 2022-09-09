@@ -3,7 +3,7 @@
 ## [1.0.0] - 2022-05-30
 
 ### Added
-
+dsasdsadada
 - Added stack trace to AxiosError [#4624](https://github.com/axios/axios/pull/4624)
 - Add AxiosError to AxiosStatic [#4654](https://github.com/axios/axios/pull/4654)
 - Replaced Rollup as our build runner [#4596](https://github.com/axios/axios/pull/4596)
